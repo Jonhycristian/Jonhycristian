@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/ADS-Estácio-orange?style=for-the-badge" alt="Educação">
 </p>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em criar aplicações que resolvem problemas reais. Atualmente, desenvolvo soluções Full-Stack utilizando **Node.js, Prisma e React**, sempre priorizando código limpo, escalabilidade e a melhor experiência para o usuário final.
@@ -13,9 +14,9 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 
 ## 🚀 O que venho construindo
 
-*   **NewPlay Manager (SaaS):** Plataforma robusta para gerenciamento de clientes, serviços e produtos. Inclui dashboard financeiro completo com métricas de gastos, lucros, despesas detalhadas e controle de serviços recorrentes (assinaturas).
-*   **Barber Shop SaaS:** Sistema multi-role (Admin, Secretária, Barbeiro e Cliente) para gestão completa de barbearias. Conta com controle de filas, painéis administrativos específicos, histórico de pagamentos e lógica de repasses.
-*   **Descomplicando o Movimento:** Gerenciador de avaliações físicas avançado com monitoramento de sono, fadiga e carga de treino. Automação para geração de relatórios em PDF e planilhas Excel.
+*   **NewPlay Manager (SaaS):** Plataforma robusta para gerenciamento de clientes e serviços. Inclui dashboard financeiro completo com métricas de gastos, lucros e controle de assinaturas.
+*   **Barber Shop SaaS:** Sistema multi-role (Admin, Secretária, Barbeiro e Cliente) para gestão de barbearias, com controle de filas, histórico de pagamentos e lógica de repasses.
+*   **Descomplicando o Movimento:** Gerenciador de avaliações físicas avançado com monitoramento de saúde e automação para geração de relatórios em PDF e Excel.
 
 ---
 
@@ -32,7 +33,7 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ Infra & Cloud
@@ -43,17 +44,13 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonhycristian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhycristian&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonhycristian&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhycristian&layout=compact&langs_count=7&theme=radical" />
 </p>
 
----
-
-## 📫 Vamos nos conectar?
-<p align="left">
-<a href="mailto:SEU-EMAIL-AQUI" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://wa.me/SEU-WHATSAPP" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonhycristian&theme=radical" alt="GitHub Streak" />
 </p>
