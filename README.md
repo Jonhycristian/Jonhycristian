@@ -47,14 +47,6 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 
 ---
 
-## 📈 Atividade recente
-
-<p align="center">
-  <a href="https://github.com/Jonhycristian"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonhycristian&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" /></a>
-</p>
-
----
-
 <p align="center">
   <a href="https://github.com/Jonhycristian"><img src="https://visitor-badge.laobi.icu/badge?page_id=Jonhycristian.Jonhycristian&left_color=green&right_color=blue" alt="Visitantes" /></a>
 </p>
