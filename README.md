@@ -44,9 +44,3 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 </p>
 
 > *A combinação perfeita entre desenvolvimento de software e infraestrutura sólida.*
-
----
-
-<p align="center">
-  <a href="https://github.com/Jonhycristian"><img src="https://visitor-badge.laobi.icu/badge?page_id=Jonhycristian.Jonhycristian&left_color=green&right_color=blue" alt="Visitantes" /></a>
-</p>
