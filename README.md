@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/SEU_LINK_AQUI](https://www.linkedin.com/in/jonathan-oliveira-dev/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://SEU_PORTFOLIO_AQUI.com](https://jonathan-oliveira-dev.netlify.app/)"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jonathan-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jonathan-oliveira-dev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -63,17 +63,7 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 ## 📈 Atividade recente
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonhycristian&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" />
-  </a>
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jonhycristian&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonhycristian&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" />
 </p>
 
 ---
