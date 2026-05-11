@@ -23,7 +23,7 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 
 ## 🚀 Projetos em destaque
 
-💈 **NewPlay Manager (SaaS):** Plataforma robusta para gerenciamento de clientes e serviços. Inclui dashboard financeiro completo com métricas de gastos, lucros e controle de automação de faturamento para IPTV/VPN.
+💈 **NewPlay Manager (SaaS):** Plataforma robusta para gerenciamento de clientes e serviços. Inclui dashboard financeiro completo com métricas de gastos, lucros e controle de automação de faturamento.
 *Tech: React, Node.js, Prisma, PostgreSQL*
 
 💇 **Barber Shop SaaS:** Sistema multi-role (Admin, Secretária, Barbeiro e Cliente) para gestão de barbearias, com controle de filas, histórico de pagamentos e lógica de repasses.
