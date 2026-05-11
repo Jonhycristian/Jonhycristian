@@ -50,12 +50,12 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonhycristian&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhycristian&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" />
+  <a href="https://github.com/Jonhycristian"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonhycristian&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" /></a>
+  <a href="https://github.com/Jonhycristian"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhycristian&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonhycristian&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/Jonhycristian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonhycristian&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -63,11 +63,11 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 ## 📈 Atividade recente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonhycristian&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" />
+  <a href="https://github.com/Jonhycristian"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonhycristian&theme=react-dark&hide_border=true&area=true" alt="Gráfico de atividade" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jonhycristian.Jonhycristian&left_color=green&right_color=blue" alt="Visitantes" />
+  <a href="https://github.com/Jonhycristian"><img src="https://visitor-badge.laobi.icu/badge?page_id=Jonhycristian.Jonhycristian&left_color=green&right_color=blue" alt="Visitantes" /></a>
 </p>
