@@ -47,19 +47,6 @@ Tenho forte experiência com infraestrutura de servidores Linux (Ubuntu/Docker) 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://github.com/Jonhycristian"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonhycristian&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" /></a>
-  <a href="https://github.com/Jonhycristian"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhycristian&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jonhycristian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonhycristian&theme=radical" alt="GitHub Streak" /></a>
-</p>
-
----
-
 ## 📈 Atividade recente
 
 <p align="center">
